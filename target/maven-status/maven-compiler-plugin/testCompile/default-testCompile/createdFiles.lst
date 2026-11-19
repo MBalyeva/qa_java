@@ -1,0 +1,9 @@
+com\example\FelineTest.class
+com\example\AnimalTest.class
+com\example\AnimalFoodParameterizedTest.class
+com\example\CatTest.class
+com\example\LionInvalidSexParameterizedTest.class
+com\example\LionManeParameterizedTest.class
+com\example\AnimalInvalidFoodParameterizedTest.class
+com\example\FelineKittensParameterizedTest.class
+com\example\LionTest.class

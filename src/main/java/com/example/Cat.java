@@ -2,7 +2,7 @@ package com.example;
 
 import java.util.List;
 
-public class Cat {
+public class Cat extends Feline {
 
     Predator predator;
 
@@ -17,5 +17,4 @@ public class Cat {
     public List<String> getFood() throws Exception {
         return predator.eatMeat();
     }
-
 }
